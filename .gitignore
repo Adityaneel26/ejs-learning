@@ -1,0 +1,4 @@
+node_modules/
+
+# Will ignore your secret keys (database passwords, etc.)
+.env
